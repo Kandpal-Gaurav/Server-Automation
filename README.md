@@ -1,2 +1,2 @@
 # Server-Automation
- Scripts for Automation Server Administration
+ Scripts for Automating Server Administration
